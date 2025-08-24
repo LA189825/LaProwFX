@@ -1,7 +1,7 @@
 # LaProwFX
 
 **LaProwFX** is a personal **all-in-one Camera RAW–style shader** for ReShade.  
-It’s not optimized and not meant to be perfect — just a convenient way to gather all the editing controls I want in one place, without having to chain multiple FX.  
+It’s not optimized and not meant to be perfect, just a convenient way to gather all the editing controls I want in one place, without having to chain multiple FX.  
 
 ---
 
