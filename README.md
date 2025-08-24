@@ -17,6 +17,6 @@ It’s not optimized and not meant to be perfect, just a convenient way to gathe
 ## ⚠️ Notes
 - Built for **personal use**  
 - **Unoptimized** → expect performance hits on lower-end PCs  
-- Will update it... *or maybe not* 😅  
+- Will update it... *or maybe not* 
 
 ---
